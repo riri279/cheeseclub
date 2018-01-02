@@ -1,3 +1,2 @@
-#CampusCrusadeforCheese 
-Welcome to our Website
+# Campus Crusade for Cheese 
 
