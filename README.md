@@ -1,2 +1,2 @@
-# cheeseclub
-# cheeseclub
+# CheeseClub
+Campus Crusade for Cheese Website
